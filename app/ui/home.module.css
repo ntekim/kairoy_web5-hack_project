@@ -1,0 +1,32 @@
+.logoBG{
+    background: #DEBCD6;
+}
+
+.smNavBtm{
+    position: fixed;
+    bottom: 0;
+    background: #BA7ABA;
+    color: #ffffff;
+    font-weight: 900;
+    z-index: 10;
+}
+
+.sidenavBorderRight{
+    border-right: 2px double rgb(235, 232, 232);
+}
+
+.sideNavHover{
+    color: #BA7ABA;
+}
+
+.loginBG{
+    background: #FEFBF2;
+}
+
+.btnBG{
+    background: #BA7ABA;
+}
+
+.loginSplashBG{
+    background: #BA7ABA;
+}
